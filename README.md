@@ -42,7 +42,7 @@
 ## 🌐 Connect with me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="100" alt="Contact Gif" />
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200" alt="Contact Gif" />
 </div>
 
 <p align="center">
