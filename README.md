@@ -2,7 +2,7 @@
   Hi 👋, I'm PRAVENKUMAR D
 </h1>
 
-<h3 align="center">🚀 FullStack Developer | Passionate about building awesome projects 🚀</h3>
+<h3 align="center"> FullStack Developer | Passionate about building awesome projects </h3>
 
 <br>
 
